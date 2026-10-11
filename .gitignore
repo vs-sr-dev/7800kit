@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+Atari 7800/
+*.exe
+*.dll
+*.o
+*.wav
+*.ppm
+*.pgm
+.claude/
